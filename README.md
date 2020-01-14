@@ -6,7 +6,8 @@ Hello World
 
 This line `alert("hello");` alerts hello!
 
-```
+```python
 def test():
   print("testing is for nerds lmao")
 ```
+> Remember son, dying is gay.
