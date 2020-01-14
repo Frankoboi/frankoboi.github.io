@@ -25,3 +25,9 @@ line2
 line3
 
 ___
+
+|Name   |Age|
+|-------|---|
+|Kento|15|
+|Frank|15|
+|Clarissa|2 probably|
