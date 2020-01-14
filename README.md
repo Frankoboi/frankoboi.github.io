@@ -30,4 +30,11 @@ ___
 |-------|---|
 |Kento|15|
 |Frank|15|
-|Clarissa|2 probably|
+|Clarissa|15|
+|Saggins|15|
+
+---
+
+This text is __bold__ or **bold** and *italicized* and _italicized_ or ***both***
+
+~~stronkthrough~~
